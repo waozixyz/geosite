@@ -24,6 +24,7 @@ and fetch this data before page actually loads -->
   export let posts;
 </script>
 <section>
+  <h1>Geonews</h1>
   {#each posts as post}
     <BlogPostCard {post} />
   {/each}

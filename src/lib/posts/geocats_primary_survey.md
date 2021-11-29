@@ -1,10 +1,10 @@
 ---
 slug: geocats-primary-survey
 title: Geocats, Primary Survey
-date: 2021-10-06
+date: '2021-10-06'
 excerpt: "Thanks to our incredible, supportive community for all of the encouragement over the year.
 We’re grateful for everything, and are thrilled by what the future holds for Geocats!"
-tags: [Meta]
+tags: [news]
 ---
 
 # {title}
@@ -33,23 +33,23 @@ It’s our goal to create a game that is entertaining and engaging, and we are l
 
 ## What's so special about Geocats?
 
-– Each art asset is an original creation and will be tokenized.
-– All of the SFX and music are unique and have been recorded by Nonaco staff.
-– Our typeface was custom made for Geocats. It’s dyslexic friendly as well as open-source.
-– The dialogue of Geocats was a collaborative effort, written by everyone at Nonaco.
-– We are running as much code as we can on open-source and decentralised platforms.
-– We are partnered with [Vulcan](https://market.vulcanforged.com/), the coolest NFT gaming platform out there.
-– There are a lot of amazing cats to collect and play as!
-– Finally, we have an incredible community, full of really cool people.
+- Each art asset is an original creation and will be tokenized.
+- All of the SFX and music are unique and have been recorded by Nonaco staff.
+- Our typeface was custom made for Geocats. It’s dyslexic friendly as well as open-source.
+- The dialogue of Geocats was a collaborative effort, written by everyone at Nonaco.
+- We are running as much code as we can on open-source and decentralised platforms.
+- We are partnered with [Vulcan](https://market.vulcanforged.com/), the coolest NFT gaming platform out there.
+- There are a lot of amazing cats to collect and play as!
+- Finally, we have an incredible community, full of really cool people.
 
 ---
 
 ## Closed Beta Features
 
-– 9 levels to explore.
-– A few fun puzzles and secrets to find.
-– Lots of characters to chat with.
-– Running entirely in [Godot](https://godotengine.org/)!
+- 9 levels to explore.
+- A few fun puzzles and secrets to find.
+- Lots of characters to chat with.
+- Running entirely in [Godot](https://godotengine.org/)!
 
 The migration to [Godot](https://godotengine.org/) was a success! Our game is approximately 130mb in size so it’s pretty easy to load and play… Providing you have a GeoKey.
 
@@ -60,14 +60,14 @@ Well, now that we have the foundations of our game built… The fun can really s
 
 ## Open Beta Features
 
-– No GeoKey necessary (However, it will be useful again…)
-– Six new levels, and the dangerous, Chimera story arc…
-– Boss battles >:)
-– Chat dialogue UI update.
-– Public Git, with source code and issue tracker!
-– Greenhouse prototype…
-– Geocache mechanism update
-– Geocats player selector… AKA… The GeoQuarium
+- No GeoKey necessary (However, it will be useful again…)
+- Six new levels, and the dangerous, Chimera story arc…
+- Boss battles >:)
+- Chat dialogue UI update.
+- Public Git, with source code and issue tracker!
+- Greenhouse prototype…
+- Geocache mechanism update
+- Geocats player selector… AKA… The GeoQuarium
 
 ---
 

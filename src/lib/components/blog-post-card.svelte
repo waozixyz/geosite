@@ -1,31 +1,37 @@
 
 <script>
 	export let post;
-	export let showImage = true;
 </script>
 
 {#if post}
-<div>
+<div class="post">
     <a href="/geonews/{post.slug}">
-        <div>
+        <!--center>
             {#if showImage}
                 // todo
             {/if}
-        </div>
+        </center-->
         <div>
-            <div class="title">{post.title}</div>
-            <div class="note">{post.readingTime}</div>
+            <h2 class="title">{post.title}</h2>
             <div class="text">{post.excerpt}</div>
         </div>
-        <div>
+
+        <!--div>
             {#if post.tags}
-                <div class="tags">
+                <ul class="tags">
                     {#each post.tags.slice(0, 2) as tag}
-                        // todo
+                        <li>{tag}</li>
                     {/each}
-                </div>
+                </ul>
             {/if}
-        </div>
+        </div-->
     </a>
 </div>
 {/if}
+
+<style>
+    .post {
+        padding-bottom: 2rem;
+    }
+
+</style>

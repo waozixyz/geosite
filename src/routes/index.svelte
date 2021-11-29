@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Geocats - Home</title>
 </svelte:head>
 
 <section>
