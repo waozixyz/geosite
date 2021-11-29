@@ -18,7 +18,7 @@
 	<title>Geocats - Game</title>
 </svelte:head>
 
-<div id="content" class="black">
+<div id="game" class="black">
 	<div class="content">
 		<iframe src="/game/index.html" title="Geocats">
 	</div>
@@ -27,7 +27,7 @@
 <style>
 	.black {
 		background-color: black;
-		height: 100vh;
+		height: 110vh;
 		margin-top: 2rem;
 		display: flex;
 		justify-content: center;
@@ -42,11 +42,10 @@
 		text-align: center;
 		max-width: 760px;
 		max-height: 570px;
-
 	}
 	.content iframe {
 		width: 90vw;
-		height: 67.5vw;
+		height: 80vh;
 		border: none;
 		max-width: 760px;
 		max-height: 570px;

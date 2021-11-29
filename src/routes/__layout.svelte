@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>Made with lots of <b>catnip</b> <br> <b>Nonaco</b> © 2021 - <a href="">BY-NC-SA 4.0</a></p>
+	<p>Made with lots of <b>catnip</b> <br> <b>Nonaco</b> © 2021 - <a href="/">BY-NC-SA 4.0</a></p>
 </footer>
 
 <style>
@@ -35,6 +35,5 @@
 	footer a {
 		font-weight: bold;
 	}
-
 
 </style>

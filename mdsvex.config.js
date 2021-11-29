@@ -7,6 +7,9 @@ const config = {
 
   remarkPlugins: [],
   rehypePlugins: [],
+  layout: {
+    _: "src/lib/layout/geonews.svelte"
+  }
 };
 
 export default config;

@@ -1,0 +1,4 @@
+
+<section>
+    <slot/>
+</section>
