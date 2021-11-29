@@ -11,6 +11,8 @@
 	--secondary-color: #d0dde9;
 	--tertiary-color: #edf0f8;
 	--accent-color: #28552a;
+	--highlight-color: #18352a;
+
 	--heading-color: rgba(0, 0, 0, 0.7);
 	--text-color: #444444;
 	--background-color: #7bc57e;
@@ -34,11 +36,6 @@ body::before {
 	top: 0;
 	left: 10vw;
 	z-index: -1;
-	background: radial-gradient(
-		50% 50% at 50% 50%,
-		var(--pure-white) 0%,
-		rgba(255, 255, 255, 0) 100%
-	);
 	opacity: 0.05;
 }
 
@@ -49,9 +46,10 @@ body::before {
 }
 
 section {
-	width: 100%;
+	width: auto;
 	max-width: var(--column-width);
 	margin: var(--column-margin-top) auto 0 auto;
+	padding: 1rem;
 }
 h1,
 h2,
@@ -70,7 +68,7 @@ a {
 }
 
 a:hover {
-	font-weight: bolder;
+	color: var(--highlight-color)
 }
 
 h1 {
