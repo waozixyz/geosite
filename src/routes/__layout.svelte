@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>Made with lots of <b>catnip</b> <br> <b>Nonaco</b> © 2021 - <a href="">BY-NC-SA 4.0</a></p>
 </footer>
 
 <style>
@@ -18,9 +18,7 @@
 		flex: 1;
 		display: flex;
 		flex-direction: column;
-		padding: 1rem;
 		width: 100%;
-		max-width: 1024px;
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
@@ -30,16 +28,13 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
+		width: 100%;
+		text-align: center;
 	}
 
 	footer a {
 		font-weight: bold;
 	}
 
-	@media (min-width: 480px) {
-		footer {
-			padding: 40px 0;
-		}
-	}
+
 </style>

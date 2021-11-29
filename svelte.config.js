@@ -1,13 +1,19 @@
-import adapter from '@sveltejs/adapter-auto';
+import { mdsvex } from "mdsvex";
+import mdsvexConfig from "./mdsvex.config.js";
+import adapter from "@sveltejs/adapter-auto";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	kit: {
-		adapter: adapter(),
+  extensions: [".svelte", ...mdsvexConfig.extensions],
 
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
-	}
+  kit: {
+    adapter: adapter(),
+
+    // hydrate the <div id="svelte"> element in src/app.html
+    target: "#svelte",
+  },
+
+  preprocess: [mdsvex(mdsvexConfig)],
 };
 
 export default config;
