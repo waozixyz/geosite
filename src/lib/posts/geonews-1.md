@@ -1,35 +1,34 @@
 ---
 slug: geonews-1
-title: '*Silent Winter Meows* #1'
+title: 'GeoNews #1 - Silent Winter Meows'
 issue: 1
 date: 2021-12-01
 excerpt: "Thanks for opening up the very first edition of GEONEWS. It’s with this publication that we intend to distill our most important information into one place. Like every NONACO endeavour, we’ll see how this idea evolves and grows over the following months."
 tags: [News]
 ---
 
-
-## **Important "News"**
+## **Important News**
 
 ### Introduction
 
-Thanks for opening up the very first edition of GEONEWS. It's with this publication that we intend to distill our most important information into one place. Like every NONACO endeavour, we'll see how this idea evolves and grows over the following months. 
+Thanks for opening up the very first edition of GEONEWS on our new website. It's with this publication that we intend to distill our most important information into one place. Like every NONACO endeavour, we'll see how this idea plays out over the following months. 
 
 ### GEOCATS:V2
 
-This month saw the launch of Geocats Version 2. The launch went smoothly, and our amazing beta testers gave us a lot of cool feedback. Players can expect a patch to V2 in the coming weeks. Enormous gratitude to everyone who's shared feedback with us. We appreciate you!
+This month saw the launch of Geocats Version 2. The launch went smoothly, and our industrious beta testers gave us a lot of constructive feedback. Players can expect a patch to V2 in the coming weeks. Enormous gratitude to everyone who's shared feedback with us. We appreciate you!
 
 ### GEOCATS:V3
 
-This is a massive update for us. We will be launching a few core features that are long overdue...Mainly, the option to play as whatever cats you have in your wallet! This iteration of Geocats will also include the mysterious GEOQUARIUMS for players. More information about these customisable space-pods will be featured in a spotlight article in the next issue of GEONEWS. 
-Finally, we have been building the in-game GEODEX. A compendium of our creations, and a database of all NFTs we have created so far. We feel that this featured will be appreciated by those of us who like organised structures.
+This is a massive update for us. We'lll be launching a few core features that are long overdue...Mainly, the option to play as whatever cats that you have in your wallet! This iteration of Geocats will also include the mysterious *GEOQUARIUMS* for players to begin using. More information about these customisable space-pods will be featured in a spotlight article in the next issue of GEONEWS. 
+Finally, we have been building the in-game GEODEX. A compendium of our creations, and a database of all NFTs we have created so far. We feel that this feature will be appreciated by those of us who like knowing what's going in in their organised structures.
 
-Version 3 also has a more focussed and clear storyline. We're including more hints and new cutscenes. 
+Version 3 also has a more focussed and clear storyline. We're including more hints and new cutscenes to tie everything together a bit neater.
 
 
 
 ---
 
-## **Arts & "Culture"**
+## **Arts & Culture**
 
 ### Does paint taste as good as it looks?
 
@@ -50,12 +49,18 @@ So to answer the question again: Yes, a pixel has a unique taste… one that wil
 
 A lot of work has gone into our libre typeface. Here's a bit more information about it. 
 We are happy to accomodate people however we're able. If anyone here feels like an accessibility option they require is missing from our game, please let us know and we'll see what we can do.
+Introducing Qix-Mono!
 
 ---
 
-## **Research & "Development"**
+### New Website
 
-​		Here's the stuff that Wolfi will talk about
+Welcome to our new site. We've made it ourselves!
+
+### Updates, in depth
+
+As mentioned above, we are adding all of the cats to the game, and making them available in the Geoquariums. The cats, and all other NFTs will be explorable in a sort of encyclopedia we're calling the GeoDex. 
+With the launch of V3, we will be releasing 3 backgrounds for the Geoquarium. Players in posession of a Vulcanite will receive a special BG. We'll be patching in the other backgrounds throughout 2022. We'd like to take our time with them and make sure they're up to NONACO standards of excellence.
 
 ### Vulcon 1 & Vulcan UK Meetup
 
@@ -66,17 +71,15 @@ We hope to see many of you in Greece this summer for Vulcon 2.
 ![cave](cave.png)
 ---
 
-## **Editorials & "Opinions"**
-
 ### Letter from the Editor
 
-This project really grows in new ways, and it's entirely due to the talented people in this space. Thanks to everyone here!
+This project really grows in new ways, and it's entirely due to the talented community and team. Thanks to everyone here!
 — *Kurt*
 
 ### Letters to the Editor
 
-**On the Existence of NO.Cat**
-I have heard rumours of a glitched-out cat, living inside those evil entertainment machines at Geistesfluch Arcade. Whether or not these claims are substantiated by fact, I propose we remove this horrible business from our fair city. 
+**Impossible Pumpkin Puzzle**
+Have ***anyone*** solved the NONACO Pumpkin Puzzle yet? Typical of this incompetent company to implement features that nobody understands or asks for. I resolve to boycott NONACO and their puzzles, henceforth. That's what they get for trying to insult my intellegence.
 — *Concerned Citizen*
 
 **NONACO Simulated Niblits: RECALL**
@@ -88,6 +91,8 @@ To all of the cats making a big stink about finding metal shards in their Niblet
 You dropped a bag of catnip on your way out. Hit me up if you want it back. You might want to hurry though – There's really not much left...
 — CatnipCrusher710
 
+Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
+
 ---
 
 ## **Communty Events**
@@ -97,7 +102,12 @@ You dropped a bag of catnip on your way out. Hit me up if you want it back. You 
 Congratulations to Neswulf for winning this years contest with this terrifying piece of artwork! 
 *Enjoy the prizes!* 
 ![pumpkins](pumpkins.gif)
-### Daily Winter Calendar
+### Winter Festivity Contest
+
+We all need time to forget about the drudgery of daily life, which is why NONACO has decided to host another contest!
+Cosy up by the fire with a hot cup of cocoa, and subscribe to our social media channels for a chance to win digital prizes.
+More info can be found here. Good luck, have fun!
+![winter](winter.png)
 
 ---
 

@@ -362,7 +362,7 @@
         min-width: 200px;
         max-width: 320px;
         margin: auto;
-        text-align: justify;
+        text-align: left;
 	}
 	.row img {
         margin: 2rem;
