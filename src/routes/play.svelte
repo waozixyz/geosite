@@ -20,7 +20,7 @@
 
 <div id="game" class="black">
 	<div class="content">
-		<iframe src="/game/index.html" title="Geocats">
+		<iframe src="/geogame.html" title="Geocats">
 	</div>
 </div>
 

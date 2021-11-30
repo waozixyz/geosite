@@ -1,12 +1,11 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '/icon.svg';
 </script>
 
 <header>
 	<div class="corner">
 		<a href="/">
-			<img src={logo} alt="SvelteKit" />
+			<img src="/logo.png" alt="logo" />
 		</a>
 	</div>
 
@@ -19,7 +18,6 @@
 			<li class:active={$page.path === '/geonews'}><a sveltekit:prefetch href="/geonews">GeoNews</a></li>
 			<li class:active={$page.path === '/play'}><a sveltekit:prefetch href="/play#game">Play</a></li>
 			<li class:active={$page.path === '/geodex'}><a sveltekit:prefetch href="/geodex">GeoDex</a></li>
-			<li class:active={$page.path === '/contact'}><a sveltekit:prefetch href="/contact">Contact</a></li>
 
 			<!--li class:active={$page.path === '/farm'}><a sveltekit:prefetch href="/farm">Farm</a></li-->
 		</ul>

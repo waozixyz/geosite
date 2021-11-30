@@ -9,5 +9,6 @@
 </svelte:head>
 
 
-<section >    <slot/>
+<section >
+    <slot/>
 </section>

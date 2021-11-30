@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sveltekit-static
+    env: static
+    buildCommand: yarn && yarn build
+    staticPublishPath: build
