@@ -24,8 +24,10 @@
         <div>
             <h2 class="title">{post.title}</h2>
             <div class="text">{post.excerpt}</div>
+            <br/>
+            <a href="/geonews/{post.slug}">continue reading ⇾</a> 
         </div>
-
+        <br/>
         <!--div>
             {#if post.tags}
                 <ul class="tags">
@@ -38,6 +40,7 @@
         {#if date}
             <p>{date}</p>
         {/if}
+
     </a>
 </div>
 {/if}
