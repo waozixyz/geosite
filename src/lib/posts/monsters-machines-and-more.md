@@ -6,11 +6,13 @@ excerpt: "This post will clear up a few of the most important questions for the 
 tags: [News]
 ---
 
+<div class="banner">
+
 ![geohint49](/geonews/geohint49.png)
-
-## **The first Geocats are out!**
-
+</div>
 <center>
+
+# **The first Geocats are out!**
 
 Congratulations to the lucky individuals that have their very own Geocat!
 
@@ -21,11 +23,16 @@ Each of these NFT’s will be an integral mechanic of Geocats, offering differen
 
 </center>
 
-## **Timeframe.**
+<div class="banner">
 
 ![bigids](/geonews/bigids.png)
+</div>
+
+
 
 <center>
+
+# **Timeframe**
 
 We have had quite a few questions about when Geocats will be released.
 </center>
@@ -49,8 +56,47 @@ In 2021 we intend to expand our team to meet demand.
 **Carter** – Soundtrack / Sound Effects
 </div>
 
+---
+
+# Introducing some Geomonsters!
+
+
+<div class="row">
+
+![chimera](/geonews/chimera.gif)
+
+<div>
+
+**Name:** Chimera
+
+**Description:**  A failed experiment in bio-engineering, the Chimera exists in opposition to all beauty in life.
+Current mythology tells us that this abomination revels in suffering and destruction, and has been leaving a trail of carnage in it’s wake for centuries.
+</div>
+</div>
+
+<div class="row">
+
+![monster](/geonews/monster.gif)
+
+<div>
+
+**Name:** Felidsalia Felidsalis, the Cat O’ War
+
+**Description:**  Any swimmer unlucky enough to become tangled in the Cat O’ War will find themselves overwhelmed with incomprehensible pain and complete paralysis.
+
+</div>
+</div>
+
+---
+
+**Finally, we would like to thanks our community for being so cool. We are having a ton of fun building this universe with you all.**
+
+Thanks to Vulcan for helping us through the process. [Check them out here!](https://market.vulcanforged.com/)
+
+
+
 <style>
-img {
+.banner img {
     width: 100%;
     border-radius: 30%;
 }
@@ -59,6 +105,7 @@ img {
     align-items: center;
 }
 .row img {
+    padding: 1rem;
     max-width: 128px;
 }
 </style>
