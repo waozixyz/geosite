@@ -8,6 +8,7 @@ const config = {
   remarkPlugins: [],
   rehypePlugins: [],
   layout: {
+    blank: "src/lib/layout/blank.svelte",
     _: "src/lib/layout/geonews.svelte"
   }
 };

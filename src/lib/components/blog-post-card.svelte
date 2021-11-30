@@ -1,6 +1,14 @@
 
 <script>
 	export let post;
+    let date
+    if (post.date) {
+        date = post.date
+        if (date) {
+            date = new Date(date)
+            date = date.toJSON().split("T")[0];
+        }
+    }
 </script>
 
 {#if post}
@@ -25,6 +33,9 @@
                 </ul>
             {/if}
         </div-->
+        {#if date}
+            <p>{date}</p>
+        {/if}
     </a>
 </div>
 {/if}

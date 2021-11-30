@@ -21,7 +21,7 @@
 
 		return {
 			props: {
-        // Tell page to load that post's module
+        		// Tell page to load that post's module
 				page: filteredPost.post.default
 			}
 		};

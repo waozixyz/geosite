@@ -30,6 +30,14 @@
 			<p>Geocats leverages blockchain technology by allowing players to swap non-fungible tokens with one another in a Geocache virtual world.</p>
 			<p>NFT rewards and treasures encourage players to work together to solve puzzles as well as allowing each player to own whatever they find for themselves.</p>
 		</div>
+		<center class="icons">
+			<a href="mailto:geocats@protonmail.com">@</a>
+			<a href="https://twitter.com/GeoCatsNFT"><img alt="twitter logo" src="/icons/twitter.png"/></a>
+			<a href="https://gitlab.com/nonaco/geosite"><img alt="gitlab logo" src="/icons/gitlab.png"/></a>
+			<a href="https://t.me/GeocatsOfficial"><img alt="telegram logo" src="/icons/telegram.png"/></a>
+			<a href="https://discord.gg/jsNtEb4Pj2"><img alt="discord logo" src="/icons/discord.png"/></a>
+
+		</center>
 	</div>
 </section>
 
@@ -53,5 +61,20 @@
 		text-transform: uppercase;
 		font-weight: bold;
 		color: black;
+	}
+	.icons {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 32px;
+
+	}
+	.icons a {
+		margin: .2rem;
+	}
+	.icon {
+	}
+	.icons img {
+		width: 32px;
 	}
 </style>

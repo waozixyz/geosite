@@ -18,4 +18,4 @@ We are always looking for ways to collaborate. If you are interested email us [h
  - [Discord](https://discord.gg/3vAHNTwYJe)
 
 ## License
-The entire source code is licensed under [MIT](LICENSE), but our assets including all images and sound files are licensed under [CC BY-NC-SA 4.0](LICENSE.by-nc-sa-4.0.md)
+The source code is licensed under [MIT](LICENSE) and the assets and text content of this site are licensed under [CC BY-NC-SA 4.0](LICENSE.by-nc-sa-4.0.md), unless otherwise stated.

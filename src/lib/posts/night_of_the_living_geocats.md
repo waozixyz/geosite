@@ -1,12 +1,12 @@
 ---
 slug: night-of-the-living-geocats
 title:  Night of the living Geocats – Contest & update!
-date: '2021-10-06'
+date: 2021-10-06
 excerpt: "As some of you may know, Geocats is getting ready to release a very fun and challenging update later this month. Players can anticipate some fascinating lore, groovy new tunes, never before seen levels, as well as their first ever combat experience!"
 tags: [News]
 ---
 
-# Night of the living Geocats – Contest & update!
+# {title}
 
 {date}
 
@@ -43,7 +43,9 @@ We will be minting a bunch of Broccoli Cats… **and anyone that has one of thes
 It’s terrifyingly simple!
 Create a creepy piece of pixel art for Geocats (Maximum 250×250 pixels in size)
 
-**All entries must be posted in the Geocats Competition telegram chat:** [@Geocatscompetitions](https://t.me/Geocatscompetitions)
+**All entries must be posted in the Geocats Competition telegram chat:** 
+
+[@Geocatscompetitions](https://t.me/Geocatscompetitions)
 
  Five runner-up entries will also receive Broccoli Cats as a consolation!
 We also reserve the right to award an honourable mention (…*Looking at you poop-cat*)

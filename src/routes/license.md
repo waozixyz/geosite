@@ -1,3 +1,8 @@
+---
+title: License
+layout: blank
+---
+
 The assets and text content of geocats.net are under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
 This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
