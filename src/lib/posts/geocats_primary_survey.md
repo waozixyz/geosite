@@ -1,18 +1,12 @@
 ---
 slug: geocats-primary-survey
 title: Geocats, Primary Survey
-date: 2021-10-06
+date: 2021-08-11
 excerpt: "Thanks to our incredible, supportive community for all of the encouragement over the year.
 We’re grateful for everything, and are thrilled by what the future holds for Geocats!"
 tags: [news]
 ---
 
-
----
-
-[toc]
-
----
 
 ## ****
 

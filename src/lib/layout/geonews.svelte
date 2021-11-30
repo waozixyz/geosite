@@ -15,6 +15,7 @@
 
 
 <section >
+    <a href="/geonews">⇽ return to overview</a> 
     {#if title}
         <h1>{title}</h1>
     {/if}
@@ -22,4 +23,5 @@
         <p>{date}</p>
     {/if}
     <slot/>
+    <a href="/geonews">⇽ return to overview</a> 
 </section>

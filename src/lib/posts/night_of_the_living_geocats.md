@@ -6,15 +6,6 @@ excerpt: "As some of you may know, Geocats is getting ready to release a very fu
 tags: [News]
 ---
 
-# {title}
-
-{date}
-
----
-
-[toc]
-
----
 
 ## **Spooky Update**
 

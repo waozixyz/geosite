@@ -30,6 +30,7 @@
 			<p>Geocats leverages blockchain technology by allowing players to swap non-fungible tokens with one another in a Geocache virtual world.</p>
 			<p>NFT rewards and treasures encourage players to work together to solve puzzles as well as allowing each player to own whatever they find for themselves.</p>
 		</div>
+		<br/>
 		<center class="icons">
 			<a href="mailto:geocats@protonmail.com">@</a>
 			<a href="https://twitter.com/GeoCatsNFT"><img alt="twitter logo" src="/icons/twitter.png"/></a>

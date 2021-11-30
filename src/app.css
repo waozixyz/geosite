@@ -53,7 +53,7 @@ section {
 }
 h1,
 h2,
-p {
+p, div {
 	font-weight: 400;
 	color: var(--heading-color);
 }
