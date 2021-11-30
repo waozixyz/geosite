@@ -12,7 +12,7 @@
 			Geocats
 		</h1>
 		<h2>
-			An Interdimensional NFT Geocaching Experience
+			A Retro-style 2D Action Platformer
 		</h2>
 		<div class="row">
 			<a class="button" href="https://en.wikipedia.org/wiki/Geocaching" target="_blank">
@@ -27,8 +27,8 @@
 	</div>
 	<div>
 		<div>
-			<p>Geocats leverages blockchain technology by allowing players to swap non-fungible tokens with one another in a Geocache virtual world.</p>
-			<p>NFT rewards and treasures encourage players to work together to solve puzzles as well as allowing each player to own whatever they find for themselves.</p>
+			<p>Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments. Players can collect NFT cats which are unique and playable characters in game. We have lots of stories, quests, and unique environments waiting to be explored.</p>
+			<p>We're a small international team with a big interest in capturing the fun of games from the past, while embracing the technologies of the future in positive ways.</p>
 		</div>
 		<br/>
 
