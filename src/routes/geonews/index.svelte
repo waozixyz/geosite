@@ -23,12 +23,18 @@ and fetch this data before page actually loads -->
 
   export let posts;
 </script>
+
+
+<svelte:head>
+	<title>GeoNews</title>
+</svelte:head>
+
 <section>
 	<center class="banner">
 		<img alt="banner" src="/geonews/geocats_viking.png" />
 	</center>
 
-  <h1>Geonews</h1>
+  <h1>GeoNews</h1>
   {#each posts as post}
     <BlogPostCard {post} />
   {/each}
