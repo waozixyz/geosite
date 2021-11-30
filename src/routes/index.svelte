@@ -41,9 +41,10 @@
 	}
 	.row {
 		margin: auto;
-		max-width: 512px;
+		width: 100%;
 		display: flex;
 		justify-content: space-around;
+		
 	}
 	.center {
 		text-align: center;

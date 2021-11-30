@@ -8,19 +8,22 @@
 		<a href="https://t.me/GeocatsOfficial"><img alt="telegram logo" src="/icons/telegram.png"/></a>
 		<a href="https://discord.gg/jsNtEb4Pj2"><img alt="discord logo" src="/icons/discord.png"/></a>
 	</div>
-	<p>Made with lots of <b>catnip</b> <br> <b>Nonaco</b> © 2021 - <a href="/license">BY-NC-SA 4.0</a></p>
+	<div>
+		Made with lots of <b>catnip</b><br/>
+		<b>Nonaco</b> © 2021 - <a href="/license">BY-NC-SA 4.0</a>
+	</div>
 </footer>
 
 <style>
 	footer {
 		display: flex;
-		padding: 2rem;
 		justify-content: space-between;
 		align-items: center;
 		text-align: center;
 		max-width: var(--column-width);
 		margin: auto;
 		width: 100%;
+		
 	}
 
 	footer a {
@@ -28,16 +31,20 @@
 	}
 	.icons {
 		display: flex;
-		align-items: center;
-		justify-content: center;
+		justify-content: space-around;
+		flex-wrap: wrap;
 		font-size: 32px;
 
 	}
 	.icons a {
-		margin: .2rem;
+		margin: .4rem;
 	}
 
 	.icons img {
 		width: 32px;
+	}
+	div {
+		padding:1rem;
+		line-height: 1.5rem;
 	}
 </style>

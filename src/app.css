@@ -81,7 +81,7 @@ a {
 }
 
 a:hover {
-	color: var(--highlight-color)
+	color: var(--white-color)
 }
 
 h1 {
@@ -122,14 +122,15 @@ button:focus:not(:focus-visible) {
 .button {
 	border: 1px solid var(--accent-color);
 	box-sizing: border-box;
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 10px;
 	margin: auto;
 	padding: .5rem;
-	color: var(--text-color)
+	color: var(--text-color);
+	font-weight: 700;
 }
 .button:hover {
 	background-color: var(--accent-color);
-	color:  var(--pure-black);
+	color: var(--pure-black);
 }
 
 @media (min-width: 720px) {
