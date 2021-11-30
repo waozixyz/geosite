@@ -59,9 +59,10 @@ section {
 	padding: 0 1rem;
 }
 
-h1, h2 {
+h1, h3 {
 	color: var(--accent-color)
 }
+
 
 p, div {
 	font-weight: 400;

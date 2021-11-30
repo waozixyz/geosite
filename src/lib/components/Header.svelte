@@ -76,7 +76,6 @@
 		color: var(--heading-color);
 		font-weight: 700;
 		font-size: 0.8rem;
-		text-transform: uppercase;
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
