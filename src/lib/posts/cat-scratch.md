@@ -1,13 +1,20 @@
 ---
 slug: cat-scratch
 title: Cat Scratch
-image: geohint48.png
-subtitle: A Caturday feature, proudly sponsored by NONACO.
+
 date: 2021-06-10
 excerpt: "Today we will be interviewing one of the most advanced forms of artificial intelligence in the known extraverse.
 Let’s commence our program, and give a warm welcome to our cold and lifeless guest Fe-Line!"
 tags: [News]
 ---
+
+<center class="header">
+
+![geohint48](/geonews/geohint48.png)
+
+**A Caturday feature, proudly sponsored by NONACO.**
+
+</center>
 
 
 ## **Interview conducted by Hogwash**
@@ -155,5 +162,8 @@ If you’d like to learn more about Godot, check out their website [here](https:
     text-align: justify;
     float: right;
 
+}
+.header img {
+    max-width: 512px;
 }
 </style>

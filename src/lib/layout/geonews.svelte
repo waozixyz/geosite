@@ -1,10 +1,11 @@
 
 <script>
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
     export let title;
     export let date;
     if (date) {
         date = new Date(date)
-        date = date.toJSON().split("T")[0];
+        date = months[date.getMonth()] + " " + date.getDate() + ", " + date.getFullYear()
     }
 </script>
   
