@@ -8,8 +8,7 @@
 
 <section>
 	<header>
-		<img class="logo" alt="logo" src="/logo.png" width="256px"/>
-		<h1 class="title">
+	<h1 class="title">
 			Geocats
 		</h1>
 		<h2>
@@ -24,11 +23,11 @@
 			</a>
 		</div>
 		<br/>
-		<img width="128px" alt="ergot" src="/ergot.png"/>
+		<img class="logo" width="128px" alt="logo" src="/logo.png"/>
 	</header>
 	<div>
 		<div>
-			<p>Geocats intends to leverage blockchain technology by allowing players to swap non-fungible tokens with one another in a Geocache virtual world.</p>
+			<p>Geocats leverages blockchain technology by allowing players to swap non-fungible tokens with one another in a Geocache virtual world.</p>
 			<p>NFT rewards and treasures encourage players to work together to solve puzzles as well as allowing each player to own whatever they find for themselves.</p>
 		</div>
 	</div>
