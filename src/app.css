@@ -58,7 +58,9 @@ section {
 	margin: var(--column-margin-top) auto 0 auto;
 	padding: 0 1rem;
 }
-h1,
+h1 {
+	color: var(--accent-color)
+}
 h2,
 p, div {
 	font-weight: 400;
