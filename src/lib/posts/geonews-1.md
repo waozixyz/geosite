@@ -68,7 +68,7 @@ Over the last months, NONACO has sent representatives to both the Vulcon 1 in Am
 Also, everyone who attended Vulcon 1 was issued their very own Pumpkin Cat. Congrats to them.
 We hope to see many of you in Greece this summer for Vulcon 2. 
 
-![cave](cave.png)
+![cave](/geonews/cave.png)
 ---
 
 ### Letter from the Editor
@@ -101,13 +101,13 @@ Have something to say? *Opinions, comments, questions, and concerns can be sent 
 
 Congratulations to Neswulf for winning this years contest with this terrifying piece of artwork! 
 *Enjoy the prizes!* 
-![pumpkins](pumpkins.gif)
+![pumpkins](/geonews/pumpkins.gif)
 ### Winter Festivity Contest
 
 We all need time to forget about the drudgery of daily life, which is why NONACO has decided to host another contest!
 Cosy up by the fire with a hot cup of cocoa, and subscribe to our social media channels for a chance to win digital prizes.
 More info can be found here. Good luck, have fun!
-![winter](winter.png)
+![winter](/geonews/winter.png)
 
 ---
 
@@ -122,7 +122,7 @@ The correct answer will get you 3 entries into our Winter Festivity Contest!
 | :----------------: |
 
 ### Word-Search
-![word search](word_search_1.png)
+![word search](/geonews/word_search_1.png)
 
 
 | avocato     |      | blockchain  |      | catnip         |      |
@@ -141,7 +141,7 @@ The first three players to solve the wordsearch will will their very own Geocat.
 
 <center>
 
-![feline closed eyes](feline_closed_eyes.png)
+![feline closed eyes](/geonews/feline_closed_eyes.png)
 </center>
 
 <style>
