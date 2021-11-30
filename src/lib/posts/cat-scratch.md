@@ -118,8 +118,8 @@ Let’s commence our program, and give a warm welcome to our cold and lifeless g
 </div>
 
 <div class="row">
-    <div>Well FeLine, we’re grateful for your time!<br/>Have a safe trip back to your own dimension.<br/>I have a feeling we’ll meet again very soon</div>
     <img src="/geonews/hogwash.png"/>
+    <div>Well FeLine, we’re grateful for your time! Have a safe trip back to your own dimension. I have a feeling we’ll meet again very soon.</div>
 
 </div>
 
