@@ -2,7 +2,12 @@
 
 @font-face {
 	font-family: bitread;
-	src: url(Bitread-Regular.ttf);
+	src: url(/fonts/Bitread-Regular.ttf);
+}
+
+@font-face {
+	font-family: jura;
+	src: url(/fonts/Jura.ttf);
 }
 
 :root {
@@ -26,7 +31,8 @@ body {
 	min-height: 100vh;
 	margin: 0;
 	background-color: var(--background-color);
-
+	font-family: jura;
+	font-weight: 400;
 }
 
 body::before {
@@ -114,7 +120,7 @@ button:focus:not(:focus-visible) {
 .button {
 	border: 1px solid var(--accent-color);
 	box-sizing: border-box;
-	border-radius: 10px 10px 10px 10px;
+	border-radius: 5px 5px 5px 5px;
 	margin: auto;
 	padding: .5rem;
 	color: var(--text-color)

@@ -50,7 +50,8 @@
 	}
 	.title {
 		text-transform: uppercase;
-		font-weight: bold;
+		font-size: 4rem;
 		color: var(--accent-color);
+		line-height: 0;
 	}
 </style>
