@@ -26,7 +26,7 @@ and fetch this data before page actually loads -->
 
 
 <svelte:head>
-	<title>GeoNews</title>
+	<title>Geocats - Geonews</title>
 </svelte:head>
 
 <section>
