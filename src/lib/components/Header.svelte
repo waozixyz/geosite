@@ -4,26 +4,20 @@
 
 <header>
 	<div class="corner">
-		<a href="/">
-			<img src="/logo.png" alt="logo" />
-		</a>
+
 	</div>
 
 	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
+
 		<ul>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
 			<li class:active={$page.path === '/geonews'}><a sveltekit:prefetch href="/geonews">GeoNews</a></li>
-			<li class:active={$page.path === '/play'}><a sveltekit:prefetch href="/play#game">Play</a></li>
 			<li class:active={$page.path === '/geodex'}><a sveltekit:prefetch href="/geodex">GeoDex</a></li>
+			<li class:active={$page.path === '/play'}><a sveltekit:prefetch href="/play#game">Play</a></li>
 
 			<!--li class:active={$page.path === '/farm'}><a sveltekit:prefetch href="/farm">Farm</a></li-->
 		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
+	
 	</nav>
 
 	<div class="corner">
@@ -37,39 +31,16 @@
 		justify-content: space-between;
 	}
 
-	.corner {
-		width: 3em;
-		height: 3em;
-	}
-
-	.corner a {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-	}
-
-	.corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
-	}
 
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
-	}
-
-	svg {
-		width: 2em;
-		height: 3em;
-		display: block;
-	}
-
-	path {
-		fill: var(--background);
+		--background: var(--background);
+		border: 3px solid var(--accent-color);
+		box-sizing: border-box;
+		border-radius: 0px 0px 10px 10px;
+		border-top: none;
+		margin: auto;
 	}
 
 	ul {
@@ -114,6 +85,7 @@
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
+		margin: 0 1rem;
 	}
 
 	a:hover {
