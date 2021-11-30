@@ -1,3 +1,8 @@
+
+<svelte:head>
+	<title>Geocats - Geodex</title>
+</svelte:head>
+
 <section class="column">
 	<div class="row">
 		<div>
