@@ -2,20 +2,26 @@
 
 @font-face {
 	font-family: bitread;
-	src: url(Bitread-Regular.ttf);
+	src: url(/fonts/Bitread-Regular.ttf);
+}
+
+@font-face {
+	font-family: jura;
+	src: url(/fonts/Jura.ttf);
 }
 
 :root {
 	--pure-white: #ffffff;
+	--pure-black: #000000;
 	--primary-color: #b9c6d2;
 	--secondary-color: #d0dde9;
 	--tertiary-color: #edf0f8;
-	--accent-color: #28552a;
-	--highlight-color: #18352a;
+	--accent-color: #ffe400;
+	--highlight-color: #ffe400;
 
-	--heading-color: rgba(0, 0, 0, 0.7);
-	--text-color: #444444;
-	--background-color: #7bc57e;
+	--heading-color: white;
+	--text-color: white;
+	--background-color: black;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -25,7 +31,8 @@ body {
 	min-height: 100vh;
 	margin: 0;
 	background-color: var(--background-color);
-
+	font-family: jura;
+	font-weight: 400;
 }
 
 body::before {
@@ -51,7 +58,9 @@ section {
 	margin: var(--column-margin-top) auto 0 auto;
 	padding: 0 1rem;
 }
-h1,
+h1 {
+	color: var(--accent-color)
+}
 h2,
 p, div {
 	font-weight: 400;
@@ -72,7 +81,7 @@ a {
 }
 
 a:hover {
-	color: var(--highlight-color)
+	color: var(--white-color)
 }
 
 h1 {
@@ -99,6 +108,7 @@ hr {
 	border-color: var(--accent-color);
 	opacity: .3;
 }
+
 input,
 button {
 	font-size: inherit;
@@ -107,6 +117,20 @@ button {
 
 button:focus:not(:focus-visible) {
 	outline: none;
+}
+
+.button {
+	border: 1px solid var(--accent-color);
+	box-sizing: border-box;
+	border-radius: 10px;
+	margin: auto;
+	padding: .5rem;
+	color: var(--text-color);
+	font-weight: 700;
+}
+.button:hover {
+	background-color: var(--accent-color);
+	color: var(--pure-black);
 }
 
 @media (min-width: 720px) {
