@@ -17,7 +17,9 @@
 <svelte:head>
 	<title>Geocats - Game</title>
 </svelte:head>
-
+<div class="center">
+	<h3>NONACO containment breach: Broccoli Cats and GeoKey holders can now access the game!</h3>
+</div>
 <div id="game" class="black">
 	<div class="content">
 		<iframe src="/geogame.html" title="Geocats">
@@ -25,6 +27,9 @@
 </div>
 
 <style>
+	.center {
+		text-align: center;
+	}
 	.black {
 		background-color: black;
 		height: 110vh;
