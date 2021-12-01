@@ -16,6 +16,7 @@
 
 <svelte:head>
 	<title>Geocats - Game</title>
+	<meta name="description" content="A Retro-style 2D Action Platformer - Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments." />
 </svelte:head>
 
 <div id="game" class="black">

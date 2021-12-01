@@ -14,9 +14,9 @@
   
 
 <svelte:head>
-	<title>Geocats - {title}</title>
-    <meta name="description" content="{excerpt}" />
+    <meta name="description" content="{excerpt}" svelte:unique/>
 
+	<title>Geocats - {title}</title>
 </svelte:head>
 
 
