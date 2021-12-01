@@ -1,5 +1,5 @@
 ---
-slug: geonews-1
+slug: GN1-silent-winter-meows
 title: 'GeoNews #1 - Silent Winter Meows'
 issue: 1
 date: 2021-12-01

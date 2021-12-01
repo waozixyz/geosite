@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Geocats - Home</title>
-	<meta name="description" content="A Retro-style 2D Action Platformer - Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments." />
+	<meta name="description" content="The Geodex is a compendium of all known Geocats NFTs. This page is a work in progress, and functionality will be improved as time goes on. Geocats can be found in game, won during contests, or bought in the Vulcan Forged Marketplace. Geocats-V3 will make all cats unique and playable characters in game." />
 </svelte:head>
 
 <section>

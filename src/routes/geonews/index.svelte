@@ -5,7 +5,7 @@ and fetch this data before page actually loads -->
 		const url = '/geonews.json';
 		const res = await fetch(url);
 
-    if (res.ok) {
+    	if (res.ok) {
 			return {
 				props: {
 					posts: await res.json()
@@ -30,6 +30,8 @@ and fetch this data before page actually loads -->
 </svelte:head>
 
 <section>
+
+
   <h1>GeoNews</h1>
   {#each posts as post}
     <GeonewsCard {post} />

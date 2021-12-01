@@ -18,9 +18,11 @@
 	<title>Geocats - Game</title>
 	<meta name="description" content="A Retro-style 2D Action Platformer - Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments." />
 </svelte:head>
-<div class="center">
-	<h3>NONACO containment breach: Broccoli Cats and GeoKey holders can now access the game!</h3>
-</div>
+<section>
+	<center>
+		<h3>NONACO containment breach: <br/>Broccoli Cats and GeoKey holders can now access the game!</h3>
+	</center>
+</section>
 <div id="game" class="black">
 	<div class="content">
 		<iframe src="/geogame.html" title="Geocats">
@@ -28,9 +30,6 @@
 </div>
 
 <style>
-	.center {
-		text-align: center;
-	}
 	.black {
 		background-color: black;
 		height: 110vh;

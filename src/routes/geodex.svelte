@@ -4,6 +4,8 @@
 
 <svelte:head>
 	<title>Geocats - Geodex</title>
+	<meta name="description" content="The Geodex is a compendium of all known Geocats NFTs. This page is a work in progress, and functionality will be improved as time goes on. Geocats can be found in game, won during contests, or bought in the Vulcan Forged Marketplace. Geocats-V3 will see them as unique and playable characters in game." />
+
 </svelte:head>
 
 <section class="geodex">
