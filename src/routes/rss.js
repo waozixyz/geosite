@@ -1,13 +1,12 @@
 export const get = async () => {
 
-    const res = await fetch('https://geocats.netlify.app/geonews.json');
+    const res = await fetch('https://geocats.net/geonews.json');
     const data = await res.json();
     const body = render(data);
     const headers = {
       'Cache-Control': `max-age=0, s-max-age=${600}`,
       'Content-Type': 'application/xml',
     };
-    console.log(body)
     return {
       body,
       headers,
