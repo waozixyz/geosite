@@ -30,9 +30,7 @@ and fetch this data before page actually loads -->
 </svelte:head>
 
 <section>
-	<center class="banner">
-		<img alt="banner" src="/geonews/geocats_viking.png" />
-	</center>
+
 
   <h1>GeoNews</h1>
   {#each posts as post}

@@ -7,6 +7,7 @@
 		<a href="https://gitlab.com/nonaco/geosite" target="_blank"><img alt="gitlab logo" src="/icons/nonaco_gitlab.png"/></a>
 		<a href="https://t.me/GeocatsOfficial" target="_blank"><img alt="telegram logo" src="/icons/nonaco_telegram.png"/></a>
 		<a href="https://discord.gg/jsNtEb4Pj2" target="_blank"><img alt="discord logo" src="/icons/nonaco_discord.png"/></a>
+		<a href="https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D" target="_blank"><img alt="Vulcan logo" src="/icons/nonaco_vulcan.png"/></a>
 	</div>
 	<div>
 		Made with lots of <b>catnip</b><br/>

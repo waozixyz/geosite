@@ -29,7 +29,7 @@ Version 3 also has a more focussed and clear storyline. We're including more hin
 ---
 
 ## **Arts & Culture**
-
+![georing](/geonews/georing-1.png)
 ### Does paint taste as good as it looks?
 
 No, but pixels do!
@@ -43,21 +43,23 @@ As for what I’m working on now, I have taken a slight detour away from the ear
 So to answer the question again: Yes, a pixel has a unique taste… one that will surely take me to many uncharted places.
 
 — *Japhy*
-![georing](/geonews/georing-1.png)
+
 
 ### Qix-Mono, Our Dyslexic Friendly Typeface 
 
-A lot of work has gone into our libre typeface. Here's a bit more information about it. 
+A lot of work has gone into our libre typeface. 
 We are happy to accomodate people however we're able. If anyone here feels like an accessibility option they require is missing from our game, please let us know and we'll see what we can do.
-Introducing Qix-Mono!
+We'll have a comprehensive write up of Qix-Mono in our next issue.
 
 ---
 
+## **Research & Development**
+![cave](/geonews/cave.png)
 ### New Website
 
 Welcome to our new site. We've made it ourselves!
 
-### Updates, in depth
+### Updates, in depth...
 
 As mentioned above, we are adding all of the cats to the game, and making them available in the Geoquariums. The cats, and all other NFTs will be explorable in a sort of encyclopedia we're calling the GeoDex. 
 With the launch of V3, we will be releasing 3 backgrounds for the Geoquarium. Players in posession of a Vulcanite will receive a special BG. We'll be patching in the other backgrounds throughout 2022. We'd like to take our time with them and make sure they're up to NONACO standards of excellence.
@@ -68,28 +70,30 @@ Over the last months, NONACO has sent representatives to both the Vulcon 1 in Am
 Also, everyone who attended Vulcon 1 was issued their very own Pumpkin Cat. Congrats to them.
 We hope to see many of you in Greece this summer for Vulcon 2. 
 
-![cave](/geonews/cave.png)
+
 ---
+## **Editorials & Opinions**
+
+### **Impossible Pumpkin Puzzle**
+Has ***anyone*** solved the NONACO Pumpkin Puzzle yet? Typical of this incompetent company to implement features that nobody understands or asks for. I resolve to boycott NONACO and their puzzles, henceforth. That's what they get for trying to insult my intellegence.
+
+— *Concerned Citizen*
+
+### **NONACO Simulated Niblits: RECALL**
+To all of the cats making a big stink about finding metal shards in their Niblets. Stop complaining! Nonaco and its subsidiaries do not deserve the constant criticism... Haven't *you* made mistakes in your life? Forgive and forget... That's the way it should be!
+*(This letter was submitted as part of a promotion sponsored by NONACO, and the opinions are my own.)*
+
+— *xX_LogicalThinker_Xx*
+
+### **To the Funny Feline Leaving Donut Shack Yesterday, With Their Arms Full of Snacks**
+You dropped a bag of catnip on your way out. Hit me up if you want it back. You might want to hurry though – There's really not much left...
+
+— *CatnipCrusher710*
 
 ### Letter from the Editor
 
 This project really grows in new ways, and it's entirely due to the talented community and team. Thanks to everyone here!
 — *Kurt*
-
-### Letters to the Editor
-
-**Impossible Pumpkin Puzzle**
-Have ***anyone*** solved the NONACO Pumpkin Puzzle yet? Typical of this incompetent company to implement features that nobody understands or asks for. I resolve to boycott NONACO and their puzzles, henceforth. That's what they get for trying to insult my intellegence.
-— *Concerned Citizen*
-
-**NONACO Simulated Niblits: RECALL**
-To all of the cats making a big stink about finding metal shards in their Niblets. Stop complaining! Nonaco and its subsidiaries do not deserve the constant criticism... Haven't *you* made mistakes in your life? Forgive and forget... That's the way it should be!
-*(This letter was submitted as part of a promotion sponsored by NONACO, and the opinions are my own.)*
-— *xX_LogicalThinker_Xx*
-
-**To the Funny Feline Leaving Donut Shack Yesterday, With Their Arms Full of Snacks**
-You dropped a bag of catnip on your way out. Hit me up if you want it back. You might want to hurry though – There's really not much left...
-— CatnipCrusher710
 
 Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
 
@@ -107,6 +111,7 @@ Congratulations to Neswulf for winning this years contest with this terrifying p
 We all need time to forget about the drudgery of daily life, which is why NONACO has decided to host another contest!
 Cosy up by the fire with a hot cup of cocoa, and subscribe to our social media channels for a chance to win digital prizes.
 More info can be found here. Good luck, have fun!
+
 ![winter](/geonews/winter.png)
 
 ---
@@ -131,7 +136,6 @@ The correct answer will get you 3 entries into our Winter Festivity Contest!
 | **nft**     |      | **norna**   |      | **polydactyl** |      |
 | **tacgnol** |      | **wyrd**    |      | **affogato**   |      |
 
-The first player to solve the anagram puzzle will win their very own Geocat. 
 The first three players to solve the wordsearch will will their very own Geocat.
 (Please send proof to an admin on Discord)
 

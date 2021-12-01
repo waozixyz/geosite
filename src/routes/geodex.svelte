@@ -3,7 +3,12 @@
 	<title>Geocats - Geodex</title>
 </svelte:head>
 
-<section class="column">
+<section class="column geodex">
+	<div class="row">
+		<a class="button" href="https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D" target="_blank">
+			Find a Cat
+		</a>
+	</div>
 	<div class="row">
 		<div>
 			<img alt="groundcat gif" src="/geodex/groundcat.gif" />
@@ -357,20 +362,57 @@
 	}
 	.row {
         display: flex;
-        justify-content: space-between;
-        align-items: center;
+        justify-content: left;
+        align-items: top;
         flex-wrap: wrap;
         width: 100%;
         margin: auto;
-    }
+	}
+
+	.row:first-of-type {
+		margin-top: 20px;
+	}
+
 	.row div {
         min-width: 200px;
-        max-width: 320px;
-        margin: auto;
+        margin: 0;
         text-align: left;
+		padding: 30px 0 30px 0;
 	}
+
+	.row div:first-of-type {
+		width: 35%;
+	}
+
+	.row div:last-of-type {
+		width: 65%;
+		border-bottom: 1px solid var(--accent-color);
+;
+	}
+
 	.row img {
-        margin: 2rem;
         width: 200px;
+		margin-top: 10px;
+	}
+
+	.row div h1 {
+		margin: 0;
+		text-align: left;
+		color: white;
+		font-size: 30px;
+	}
+
+	.row div p:nth-last-of-type(1), .row div p:nth-last-of-type(2) {
+		margin: 0;
+		text-align: right;
+	}
+
+	.row div p b {
+		font-weight: 700;
+	}
+
+	.geodex {
+		width: 100%;
+		padding: 0;
 	}
 </style>
