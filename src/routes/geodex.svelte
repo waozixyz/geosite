@@ -153,7 +153,7 @@
 		<p><b>Edition:</b> 5</p>
 		<p><b>Type:</b> GeoCat</p>
 	</GeodexCard>
-	<GeodexCard src="Hypercat">
+	<GeodexCard title="Hypercat">
 		<p>Tearing through the cosmos, surfing on waves of pure light energy. Hypercat unlocks new colours for every being it crosses paths with. A being of infinite chromatic power.</p>
 		<p>HyperCat was minted erroneously.</p>
 		<p><b>Edition:</b> 18</p>
@@ -195,7 +195,9 @@
 	margin: auto;
 	display: flex;
 	flex-direction: column;
-	width: 100%;
 	padding: 2rem 0;
+
+	width: 95%;
+	
 }
 </style>

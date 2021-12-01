@@ -21,20 +21,21 @@
 <style>
 	.row {
         display: flex;
-        justify-content: left;
+        justify-content: space-around;
         align-items: top;
+        align-content: center;
         flex-wrap: wrap;
         width: 100%;
-        margin: auto;
+        margin: auto; 
 		width: 100%;
 		padding: 0;
 	}
 
 	.row div {
-        min-width: 200px;
+        min-width: 14rem;
         margin: 0;
         text-align: left;
-		padding: 30px 0 30px 0;
+		padding: 2rem 0;
 	}
 
 	.row div:first-of-type {
@@ -48,8 +49,9 @@
 	}
 
 	.row img {
-        width: 200px;
-		margin-top: 10px;
+        width: 13rem;
+		margin-top: 1rem;
+        padding-right: 2rem;
 	}
 
 	.row div h1 {
