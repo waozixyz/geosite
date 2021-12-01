@@ -5,6 +5,7 @@
     export let date;
     export let caption;
     export let image;
+    export let excerpt;
     if (date) {
         date = new Date(date)
         date = months[date.getMonth()] + " " + date.getDate() + ", " + date.getFullYear()
@@ -14,6 +15,8 @@
 
 <svelte:head>
 	<title>Geocats - {title}</title>
+    <meta name="description" content="{excerpt}" />
+
 </svelte:head>
 
 
