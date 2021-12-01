@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <atom:link href="http://geocats.net/rss" rel="self" type="application/rss+xml" />
+  <title>Geocats</title>
+  <link>https://geocats.net</link>
+  <description>A Retro-style 2D Action Platformer - Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments.</description>
+  <item>
+  <guid>https://geocats.net/geonews/GN1-silent-winter-meows</guid>
+  <title>GeoNews #1 - Silent Winter Meows</title>
+  <link>https://geocats.net/geonews/GN1-silent-winter-meows</link>
+  <description>Thanks for opening up the very first edition of GEONEWS. It’s with this publication that we intend to distill our most important information into one place. Like every NONACO endeavour, we’ll see how this idea evolves and grows over the following months.</description>
+  <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://geocats.net/geonews/night-of-the-living-geocats</guid>
+  <title>Night of the living Geocats – Contest and update!</title>
+  <link>https://geocats.net/geonews/night-of-the-living-geocats</link>
+  <description>As some of you may know, Geocats is getting ready to release a very fun and challenging update later this month. Players can anticipate some fascinating lore, groovy new tunes, never before seen levels, as well as their first ever combat experience!</description>
+  <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://geocats.net/geonews/geocats-primary-survey</guid>
+  <title>Geocats, Primary Survey</title>
+  <link>https://geocats.net/geonews/geocats-primary-survey</link>
+  <description>Thanks to our incredible, supportive community for all of the encouragement over the year. We’re grateful for everything, and are thrilled by what the future holds for Geocats!</description>
+  <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://geocats.net/geonews/cat-scratch</guid>
+  <title>Cat Scratch</title>
+  <link>https://geocats.net/geonews/cat-scratch</link>
+  <description>Today we will be interviewing one of the most advanced forms of artificial intelligence in the known extraverse. Let’s commence our program, and give a warm welcome to our cold and lifeless guest Fe-Line!</description>
+  <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://geocats.net/geonews/geomate</guid>
+  <title>Geomate</title>
+  <link>https://geocats.net/geonews/geomate</link>
+  <description>Today we will be interviewing one of the most advanced forms of artificial intelligence in the known extraverse. Let’s commence our program, and give a warm welcome to our cold and lifeless guest Fe-Line!</description>
+  <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+  </item><item>
+  <guid>https://geocats.net/geonews/monsters-machines-and-more</guid>
+  <title>Monsters, Machines, and More…</title>
+  <link>https://geocats.net/geonews/monsters-machines-and-more</link>
+  <description>This post will clear up a few of the most important questions for the curious cats out there.</description>
+  <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
+  </item>
+  </channel>
+  </rss>
+  
