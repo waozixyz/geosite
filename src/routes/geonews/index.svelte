@@ -19,7 +19,7 @@ and fetch this data before page actually loads -->
 	}
 </script>
 <script>
-  import BlogPostCard from '$lib/components/blog-post-card.svelte';
+  import GeonewsCard from '$lib/components/geonews-card.svelte';
 
   export let posts;
 </script>
@@ -30,17 +30,9 @@ and fetch this data before page actually loads -->
 </svelte:head>
 
 <section>
-
-
   <h1>GeoNews</h1>
   {#each posts as post}
-    <BlogPostCard {post} />
+    <GeonewsCard {post} />
   {/each}
 </section>
 
-<style>
-	.banner img {
-		width: 100%;
-		border-radius: 2%;
-	}
-</style>
