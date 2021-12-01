@@ -127,14 +127,20 @@ The correct answer will get you 3 entries into our Winter Festivity Contest!
 | :----------------: |
 
 ### Word-Search
+
+<center>
+
 ![word search](/geonews/word_search_1.png)
 
+<div class="words">
 
 | avocato     |      | blockchain  |      | catnip         |      |
 | ----------- | ---- | ----------- | ---- | -------------- | ---- |
 | **geocat**  |      | **georing** |      | **longcat**    |      |
 | **nft**     |      | **norna**   |      | **polydactyl** |      |
 | **tacgnol** |      | **wyrd**    |      | **affogato**   |      |
+</div>
+</center>
 
 The first three players to solve the wordsearch will will their very own Geocat.
 (Please send proof to an admin on Discord)
@@ -151,5 +157,12 @@ The first three players to solve the wordsearch will will their very own Geocat.
 <style>
 img {
     max-width: 100%;
+}
+.words {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	width: 100%;
 }
 </style>
