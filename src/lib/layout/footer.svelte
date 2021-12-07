@@ -25,6 +25,8 @@
 		max-width: var(--column-width);
 		margin: auto;
 		width: 100%;
+		min-width: 316px;
+
 		
 	}
 

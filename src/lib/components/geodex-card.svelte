@@ -27,15 +27,11 @@
         flex-wrap: wrap;
         width: 100%;
         margin: auto; 
-		width: 100%;
-		padding: 0;
 	}
 
 	.row div {
         min-width: 14rem;
-        margin: 0;
         text-align: left;
-		padding: 2rem 0;
 	}
 
 	.row div:first-of-type {
@@ -51,14 +47,13 @@
 	.row img {
         width: 13rem;
 		margin-top: 1rem;
-        padding-right: 2rem;
 	}
 
 	.row div h1 {
 		margin: 0;
 		text-align: left;
 		color: white;
-		font-size: 30px;
+		font-size: 2rem;
 	}
 
 

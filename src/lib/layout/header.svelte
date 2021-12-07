@@ -13,7 +13,7 @@
 			<li class:active={$page.path === '/play'}><a sveltekit:prefetch href="/play#game">Play</a></li>
 			<!--li class:active={$page.path === '/farm'}><a sveltekit:prefetch href="/farm">Farm</a></li-->
 		</ul>
-	
+
 	</nav>
 
 </header>
@@ -24,6 +24,8 @@
 		text-align: center;
 		margin: auto;
 		width: 100%;
+		display: flex;
+		min-width: 316px;
 	}
 
 
@@ -34,18 +36,20 @@
 		border-radius: 0px 0px 10px 10px;
 		border-top: none;
 		width: 100%;
-
 	}
+
+
 
 
 	ul {
 		display: flex;
 		justify-content: space-around;
+		align-items: center;
+		align-content: center;
 		width: 100%;
 		padding: 0;
 		margin: 0;
-		height: 3em;
-		align-items: center;
+		height: 3rem;
 		list-style: none;
 		background: var(--background);
 		background-size: contain;
@@ -72,14 +76,16 @@
 		display: flex;
 		height: 100%;
 		align-items: center;
-		padding: 0 1em;
 		color: var(--heading-color);
 		font-weight: 700;
 		font-size: 0.8rem;
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
-		margin: 0 1rem;
+		display: flex;
+		align-items: center;
+		margin: auto;
+		align-content: center;
 	}
 
 	a:hover {
