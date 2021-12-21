@@ -24,7 +24,7 @@ Our team won't be working too hard for the rest of the year, but we will be onli
 ### GEOCATS:V2.5 - Cold Snap
 
 - Geocity has been given a winter theme with falling snow and a custom song! Players can anticipate a special gift waiting for them when they visit this frigid map for the first time.
-- Do you have a **Yule Cat**, or a **Pumpkin Cat**? Congratulations! The game is now open to you!
+- Do you have a **Yule Cat**, or a **Pumpkin Cat**? Congratulations! The game will soon be open to you!
 - Keep your eyes out for a couple new characters and NFTs to win in-game.
 - The Groundcat Puzzle has been reimplemented!
 - We've removed the creepy city until next year. Version 2.5 will allow players with the Pumpkin Puzzle NFT to toggle the creepy theme in Geocity. 
@@ -52,14 +52,15 @@ These interstellar terrariums are presently in production. More important info w
 One of my tasks for *Geocats:V2.5* was to make a convincing snowfall effect.
 	This was a project that I really wanted to take on, because I love snow levels in videogames.
 	After researching a few of my favourite pixel snowfalls, I decided to draw the image manually in Krita (The image editor we use predominantly in production).
+
 Three layers of snow, falling at different speeds to create a paralax effect. The trick to making this illusion work is to have the snow falling faster in the background than in the front. 
 Here is the basic design, this blueprint covers twice the height of the Geocity level, to account for a complete snowfall animation. *(800x1200)*
 
 | Snow Frame | Distance of Movement During 20 Frame Loop | Speed  | Number of Loops per Animation Frame |
-| ---------- | ----------------------------------------- | ------ | ----------------------------------- |
-| 1 (Front)  | 20 Pixels / Loop                          | Slow   | 20                                  |
-| 2 (Middle) | 40 Pixels / Loop                          | Medium | 10                                  |
-| 3 (Back)   | 400 Pixels / Loop                         | Fast   | 1                                   |
+| ---------- | ----------------------------------------- | ------ | :---------------------------------: |
+| 1 (Front)  | 20 Pixels / Loop                          | Slow   |                 20                  |
+| 2 (Middle) | 40 Pixels / Loop                          | Medium |                 10                  |
+| 3 (Back)   | 400 Pixels / Loop                         | Fast   |                  1                  |
 
 Getting this logic into the form of pixels was a logistic *Nightmare Before Christmas*... 
 I moved each layer of the image, respective to its corresponding frame, 20 times. After saving all 20 frames into a folder, I merged them into one giant spritesheet image.
@@ -70,7 +71,7 @@ This 6000 x 1600 monstrosity was the result of my labour (Zoom in for full effec
 
 Although beautiful when used in the game, it won this unfortunate title:
 
-***Most Resource-Intense Graphic in Geocats***
+### ***Most Resource-Intense Graphic in Geocats***
 
 In the end, we decided to go with the modern solution of using a particle effect in our game-engine, Godot.
 The retro concepts and style remain the same, but our overall filesize has been greatly optimised. 
@@ -85,13 +86,15 @@ The retro concepts and style remain the same, but our overall filesize has been 
 ![Sunset](/geonews/desert_sky.png)
 ### Estonian E-Residency and Nonaco
 
-After a lot or research and deliberation, we are proud to share that Nonaco is officially a business registered in Estonia! This allows us to work internationally, take our operations a bit more seriously, and offer more fun features for users in the long run. 
+After a lot or research and deliberation, we are proud to share that Nonaco is officially a business registered in Estonia! 
+
+This allows us to work internationally, take our operations a bit more seriously, and offer more fun features for our community in the long run. 
 
 ![Nonaco](/geonews/nonaco.png)
 
 ### Serverside
 
-We've been working on an enhanced database system that will keep the player saved on whatever map they exit the game on. 
+We've been working on an enhanced database system that will keep the player saved on whatever map they exit the game on. We'll focus an article on this subject in one of the next issues. 
 
 
 ---
