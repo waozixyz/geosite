@@ -2,7 +2,7 @@
 slug: GN2-Jingle-Meows
 title: 'GeoNews #2 - Jingle Meows'
 issue: 2
-date: 2021-12-18
+date: 2021-12-21
 excerpt: "Thanks for opening up the very first edition of GEONEWS. It’s with this publication that we intend to distill our most important information into one place. Like every NONACO endeavour, we’ll see how this idea evolves and grows over the following months."
 tags: [News]
 
