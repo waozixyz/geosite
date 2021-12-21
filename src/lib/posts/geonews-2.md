@@ -75,7 +75,7 @@ Although beautiful when used in the game, it won this unfortunate title:
 In the end, we decided to go with the modern solution of using a particle effect in our game-engine, Godot.
 The retro concepts and style remain the same, but our overall filesize has been greatly optimised. 
 
-*(Players can now look forward to Geocats:V2.5 next week, rendering ice cold snow without the risk of their computer overheating...)*
+*(Players can now look forward to Geocats:V2.5 in the next few days, rendering ice cold snow without the risk of their computer overheating...)*
 
 — *Kurt*
 
@@ -85,7 +85,7 @@ The retro concepts and style remain the same, but our overall filesize has been 
 ![Sunset](/geonews/desert_sky.png)
 ### Estonian E-Residency and Nonaco
 
-After a lot or research and deliberation, we are proud to share that Nonaco is officially a business registered in Estonia! This allows us to take our operations a bit more seriously and offer more features for users in the long run. 
+After a lot or research and deliberation, we are proud to share that Nonaco is officially a business registered in Estonia! This allows us to work internationally, take our operations a bit more seriously, and offer more fun features for users in the long run. 
 
 ![Nonaco](/geonews/nonaco.png)
 
