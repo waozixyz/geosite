@@ -38,7 +38,7 @@ We're happy with the way our base dialogue system is working, but we felt that w
 
 ##### GeoQuariums
 
-These interstellar terrariums are in presently in production. More important info will be released later. They function as a convenient place to observe all your precious cats like some sort of omnipotentent mastermind.
+These interstellar terrariums are presently in production. More important info will be released later. They function as a convenient place to observe all your precious cats like some sort of omnipotentent mastermind.
 
 ---
 
