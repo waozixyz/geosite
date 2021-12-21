@@ -27,7 +27,7 @@ Our team won't be working too hard for the rest of the year, but we will be onli
 - Do you have a **Yule Cat**, or a **Pumpkin Cat**? Congratulations! The game is now open to you!
 - Keep your eyes out for a couple new characters and NFTs to win in-game.
 - The Groundcat Puzzle has been reimplemented!
-- We've removed the creepy city until next year. Version 3 will allow players with the Pumpkin Puzzle NFT to toggle the creepy theme in Geocity. 
+- We've removed the creepy city until next year. Version 2.5 will allow players with the Pumpkin Puzzle NFT to toggle the creepy theme in Geocity. 
 - Geodex ProtoHYPE! :)
 
 ### GEOCATS:V3 - The Great Litterbox
