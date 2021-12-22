@@ -156,7 +156,7 @@ Let us know, and we'll happily send you a Geocat for being such a cool person! S
 | **Nonaco**        |      | **snowfall**  |      | **unique**    |      |
 
 This week there's only one prize. First person to complete the puzzle wins a Geocel.
-(Please send proof to @kurt8982 on Discord)
+**(Wordsearch has been completed... Please try again in issue 3!)**
 
 ---
 
