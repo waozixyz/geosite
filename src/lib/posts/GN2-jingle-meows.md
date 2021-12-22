@@ -45,7 +45,7 @@ These interstellar terrariums are presently in production. More important info w
 ## **Arts & Culture**
 ![snowfall](/geonews/snowfall_original.png)
 
-### Putting the Art in Artifificial Snow.
+### Putting the Art in Artificial Snow.
 
 ##### *On finding a functional compromise between mechanics and style.*
 
