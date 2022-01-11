@@ -132,7 +132,7 @@ My employer has told me there's a mandatory gift exchange at Nonaco Parties. I w
 
 — *Mittens*
 
-### Dangerous Feildtrips for my Poor Kitten!
+### Dangerous Fieldtrips for my Poor Kitten!
 
 Is anyone else outraged by the dangerous excursions that the NONACO education system is bringing our kittens to? *So what* if these fieldtrips are "Educational"... Doesn't anyone remember the old saying about curiosity? 
 
