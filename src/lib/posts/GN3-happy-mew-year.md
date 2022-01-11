@@ -68,7 +68,7 @@ This will be a quick newsletter, we have more substantial info to release in Geo
 
 ![Desert Landscape](/geonews/desertlandscape.png)
 
-#### ***DL*** - *Lichens* are a symbiotic relationship between a fungus and an algae. 
+#### ***DL*** - Lichens are a symbiotic relationship between a fungus and an algae. 
 
 #### My team grows special types of Lichen which have the unique adaptation to survive in the harsh Deserts of the Georing. 
 
