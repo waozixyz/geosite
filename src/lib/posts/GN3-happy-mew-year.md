@@ -128,7 +128,7 @@ Following the release of V3, we will take a week or so to come up with new ideas
 
 ### Mandatory Gift Exchange
 
-My employer has told me there's a mandatory gift exchange at Nonaco Parties. I wouldn't mind the festivities if I wasn't expexted to attend over a dozen different get-togethers... Will the festivities never end‽
+My employer has told me there's a mandatory gift exchange at Nonaco Parties. I wouldn't mind the festivities if I wasn't expected to attend over a dozen different get-togethers... Will the festivities never end‽
 
 — *Mittens*
 
