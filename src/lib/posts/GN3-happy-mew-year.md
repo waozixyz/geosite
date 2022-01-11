@@ -79,11 +79,13 @@ This will be a quick newsletter, we have more substantial info to release in Geo
 #### ***DL*** - Hm. Selective pressure has created this remarkable type of adaptive expression.
 
 ### ***GN*** - Totally fascinating. Is the conservatory open to the public?
-***DL*** - Yes! I guess you could say we are a bit like a library that way. 
+
+#### ***DL*** - Yes! I guess you could say we are a bit like a library that way. 
 We're always happy to have visitors at the Conservatory, and offer daily tours of our collection.
 
 ### ***GN*** - Excellent!
-***DL*** - We must warn you to be prepared for the difficult journey if you intend to visit us by foot through the desert...
+
+#### ***DL*** - We must warn you to be prepared for the difficult journey if you intend to visit us by foot through the desert...
 
 #### Please bear with us, we're still working on a better transportation system. 
 
