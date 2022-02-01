@@ -2,7 +2,7 @@
 slug: GN4-super-geocats-complimentary
 title: 'GeoNews #4 - Super Geocats Complimentary Edition'
 issue: 4
-date: 2022-01-11
+date: 2022-02-01
 excerpt: "Kindly give airdrop pls?"
 tags: [News]
 
@@ -34,7 +34,10 @@ Welcome to edition 4 of Geonews. We're busy making assets and adding scripts, Vu
 
 We consulted with an expert catstronaut currently working on  the Geoquariums. This video was filmed to showcase a bit of what our cosmos contains. Here's what Catstronaut #9 had to share a look at our interstellar backyard!
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/669972218?h=19feeb3f22&color=00adfef" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe src="https://player.vimeo.com/video/669972218?h=19feeb3f22&color=00adfef" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ![Solar System Fig. 1](/geonews/mountains.png)
 
