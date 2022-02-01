@@ -11,7 +11,7 @@ tags: [News]
 
 ## **Important News**
 
-![A chill place to hang](/geonews/waterfalllandscape.png)
+![A chill place to hang](/geonews/tower.png)
 
 ### Introduction
 
