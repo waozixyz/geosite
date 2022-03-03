@@ -1,9 +1,9 @@
 ---
-slug: GN5-pixel-days
+slug: GN5-Pixel-Days
 title: 'GeoNews #5 - Pixel Days'
 issue: 5
 date: 2022-03-03
-excerpt: "Qix-Mono, Gjásara Headwaters, Overworld Map, and Vulcon 2!"
+excerpt: 'Qix-Mono, Gjásara Headwaters, Overworld Map, and Vulcon 2!'
 tags: [News]
 
 excerpt: "There's a lot of info here, and a nice prize for our readers. Also, we'll be surprised if any of you can crack this edition's puzzle..."
