@@ -100,7 +100,8 @@ Have something to say? *Opinions, comments, questions, and concerns can always b
 
 ### VULCON 2
 
-Do you have your tickets to Vulcon 2 yet? We'll have a chill setup for people to try Geocats out for themselves. Prizes to be won, including NFTs, geocats collectable pins, holographic Geocats stickers, and even custom Geocats rolling papers! (For catnip only.)
+Do you have your tickets to Vulcon 2 yet? 
+We'll have a chill setup for people to try Geocats out for themselves. Prizes to be won, including NFTs, geocats collectable pins, holographic Geocats stickers, and even custom Geocats rolling papers! (For catnip only.)
 
 Additionaly, Kurtis will be a speaker at the event. It's shaping up to be a pretty great time. We're looking forward to seeing some of you there :)
 
