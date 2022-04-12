@@ -8,11 +8,10 @@
 		<a href="https://t.me/GeocatsOfficial" target="_blank"><img alt="telegram" src="/icons/nonaco_telegram.png"/></a>
 		<a href="https://discord.gg/jsNtEb4Pj2" target="_blank"><img alt="discord" src="/icons/nonaco_discord.png"/></a>
 		<a href="https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D" target="_blank"><img alt="Vulcan logo" src="/icons/nonaco_vulcan.png"/></a>
-		<a href="/rss.xml" target="_blank"><img alt="rss" src="/icons/nonaco_rss.png"/></a>
 	</div>
 	<div>
 		Made with lots of <b>catnip</b><br/>
-		<b>Nonaco</b> © 2021 - <a href="/license">BY-NC-SA 4.0</a>
+		<b>Nonaco</b> © 2022 - <a href="/license">BY-NC-SA 4.0</a>
 	</div>
 </footer>
 
