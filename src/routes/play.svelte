@@ -20,12 +20,10 @@
 </svelte:head>
 <section>
 	<center>
-		<h3>NONACO containment breach: <br/>Broccoli Cats and GeoKey holders can now access the game!</h3>
 	</center>
 </section>
 <div id="game" class="black">
 	<div class="content">
-		<iframe src="/geogame.html" title="Geocats">
 	</div>
 </div>
 
