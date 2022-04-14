@@ -24,7 +24,7 @@
 </section>
 <div id="game" class="black">
 	<div class="content">
-		<iframe frameborder="0" src="https://itch.io/embed-upload/5611243?color=000000" allowfullscreen="" width="640" height="480"><a href="https://nonaco.itch.io/geocats">Play Geocats on itch.io</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed-upload/5611548?color=000000" allowfullscreen="" width="640" height="480"><a href="https://nonaco.itch.io/geocats">Play Geocats on itch.io</a></iframe>
 	</div>
 </div>
 
