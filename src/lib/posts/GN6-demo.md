@@ -16,6 +16,8 @@ We're ready to share with you...
 
 ### [GEOCATS: Super Complimentary Edition](https://geocats.net/play#game)
 
+<iframe frameborder="0" src="https://itch.io/embed/1484216?border_width=0&amp;bg_color=0a0435&amp;fg_color=e2d30d&amp;link_color=faba5b" width="550" height="165"><a href="https://nonaco.itch.io/geocats">Geocats by Nonaco</a></iframe>
+
 - Enjoy!
 - You're invited to drop into our [**Discord**](https://discord.gg/JW6mgyN3rk) if you get stuck, or have something to share... or if you simply want to hang. The more feedback we get, the better the game will be! Plus, if you find a bug, we might even hook you up with a rare prize!
 - Our next step, now that this demo is out, is integrating **[Elysium](https://egamers.io/list-of-all-the-elysium-blockchain-games-and-dapps/)** into our game. We're creating a lot of fun ways to interact with these amazing Geocats on an incredible *carbon neutral* blockchain! 
