@@ -34,7 +34,12 @@ We're ready to share with you...
 
 We're pleased to offer an assortment of Geocats mechandise for sale in our new webstore. For the time being, each purchase come with it's very own **unique Geocat NFT** which is available to trade exclusively at the [Vulcan Forged Marketplace](https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D).
 
-![SWAG](/geonews/merch.png)
+<center>
+<div id="my-store-73297437"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?73297437&data_platform=code&data_date=2022-04-15" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-73297437");</script>
+</div>
+</center>
 
 ---
 
