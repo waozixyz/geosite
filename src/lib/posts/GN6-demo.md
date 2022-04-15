@@ -9,7 +9,7 @@ tags: [News]
 
 ## **Introduction**
 
-![Multicoloured stars and the endless void of space](/geonews/stars.png)
+![Watch the sunset? Boring...](/geonews/desert_sky.png)
 
 Enormous gratitude to our fans, friends, and families for all the support and love while creating this showcase of our work.
 We're ready to share with you...
@@ -30,7 +30,7 @@ We're ready to share with you...
 
 We're pleased to offer an assortment of Geocats mechandise for sale in our new webstore. For the time being, each purchase come with it's very own **unique Geocat NFT** which is available to trade exclusively at the [Vulcan Forged Marketplace](https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D).
 
-![GeoDesk](/geonews/river_gem.png)
+![SWAG](/geonews/merch.png)
 
 ---
 
