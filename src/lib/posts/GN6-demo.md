@@ -1,5 +1,5 @@
 ---
-slug: GN6-Demo
+slug: GN6-Demo-Release
 title: 'GeoNews #6 - Geocats demo is out!'
 issue: 6
 date: 2022-04-14
