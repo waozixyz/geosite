@@ -1,5 +1,5 @@
 ---
-slug: GN5-Pixel-Days
+slug: GN6-Demo
 title: 'GeoNews #6 - Geocats demo is out!'
 issue: 6
 date: 2022-04-14
