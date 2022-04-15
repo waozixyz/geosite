@@ -16,7 +16,9 @@ We're ready to share with you...
 
 ### [GEOCATS: Super Complimentary Edition](https://geocats.net/play#game)
 
+<center>
 <iframe frameborder="0" src="https://itch.io/embed/1484216?border_width=0&amp;bg_color=0a0435&amp;fg_color=e2d30d&amp;link_color=faba5b" width="550" height="165"><a href="https://nonaco.itch.io/geocats">Geocats by Nonaco</a></iframe>
+</center>
 
 - Enjoy!
 - You're invited to drop into our [**Discord**](https://discord.gg/JW6mgyN3rk) if you get stuck, or have something to share... or if you simply want to hang. The more feedback we get, the better the game will be! Plus, if you find a bug, we might even hook you up with a rare prize!
