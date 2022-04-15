@@ -2,7 +2,7 @@
 slug: GN6-Demo-Release
 title: 'GeoNews #6 - Geocats Demo is Out!'
 issue: 6
-date: 2022-04-14
+date: 2022-04-15
 excerpt: "Geocats: Super Complimentary Edition...Let's go!"
 tags: [News]
 --- 
