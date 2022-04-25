@@ -24,9 +24,6 @@
 		</div>
 		<br/>
 		<div class="row">
-			<a class="button" href="https://en.wikipedia.org/wiki/Geocaching" target="_blank">
-				What's Geocaching?
-			</a>
 			<a class="button" href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank">
 				What's an NFT?
 			</a>
