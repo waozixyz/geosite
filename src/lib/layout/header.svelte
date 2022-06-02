@@ -10,7 +10,6 @@
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
 			<li class:active={$page.path === '/geonews'}><a sveltekit:prefetch href="/geonews">GeoNews</a></li>
 			<li class:active={$page.path === '/geodex'}><a sveltekit:prefetch href="/geodex">GeoDex</a></li>
-			<li class:active={$page.path === '/shop'}><a sveltekit:prefetch href="/shop">Shop</a></li>
 
 			<li class:active={$page.path === '/play'}><a sveltekit:prefetch href="/play#game">Play (Demo)</a></li>
 			<!--li class:active={$page.path === '/farm'}><a sveltekit:prefetch href="/farm">Farm</a></li-->
