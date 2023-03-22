@@ -9,11 +9,6 @@
 </svelte:head>
 
 <section class="geodex">
-	<center>
-		<a class="button" href="https://auth.vulcanforged.com/Account/Login?referrallink=TUu3hsPguULs34OJVYgd0PCB%2FMWMJQAjq1EtODn8qVo%3D" target="_blank">
-			Find a Cat
-		</a>
-	</center>
 	<GeodexCard title="GroundCat">
 		<p>
 			Groundcats have a rich, yet reclusive history. From what researchers have found, they are mostly a solitary group. Groundcats predominately spend their time in underground caves playing online videogames with friends. They
@@ -198,8 +193,6 @@
 	display: flex;
 	flex-direction: column;
 	padding: 2rem 0;
-
 	width: 95%;
-	
 }
 </style>

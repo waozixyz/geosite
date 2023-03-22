@@ -13,7 +13,7 @@ tags: [news]
 Thanks to our incredible, supportive community for all of the encouragement over the year.
 We’re grateful for everything, and are thrilled by what the future holds for Geocats!
 
-Starting in 2020, we began putting a **lot** of hours into setting up the foundation for an immersive, and completely original open-source NFT based videogame.
+Starting in 2020, we began putting a **lot** of hours into setting up the foundation for an immersive, and completely original open-source videogame.
 We built a team, wrote a script, and started to create.
 
 What was once a solo project has quickly become an artistic showcase made by many different talented people from across the globe.
@@ -28,7 +28,6 @@ It’s our goal to create a game that is entertaining and engaging, and we are l
 - Our typeface was custom made for Geocats. It’s dyslexic friendly as well as open-source.
 - The dialogue of Geocats was a collaborative effort, written by everyone at Nonaco.
 - We are running as much code as we can on open-source and decentralised platforms.
-- We are partnered with [Vulcan](https://market.vulcanforged.com/), the coolest NFT gaming platform out there.
 - There are a lot of amazing cats to collect and play as!
 - Finally, we have an incredible community, full of really cool people.
 

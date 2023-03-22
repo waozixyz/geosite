@@ -19,14 +19,14 @@
 	</div>
 	<div>
 		<div>
-			<p>Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments. Players can collect NFT cats which are unique and playable characters in game. There are plenty of stories, quests, and unique environments waiting to be explored.</p>
-			<p>We're a small international team with a big interest in capturing the fun of games from the past, while embracing the technologies of the future in positive ways.</p>
+			<p>Geocats is a 2D action-platformer created by Nonaco</p>
+			<p>This game centres around the Geocats, a talented group of cats from a place called Geoterra. They rove their world in search of small treasure chests called geocaches.</p>
+			<p>But, not everything in Geoterra is as idyllic as it sounds. There have been weird reports of creepy monster-cats attacking the peaceful denizens. Do you have what it takes to join the Geocats and return peace to the lands?</p>
+
+	
 		</div>
 		<br/>
 		<div class="row">
-			<a class="button" href="https://en.wikipedia.org/wiki/Non-fungible_token" target="_blank">
-				What's an NFT?
-			</a>
 			<a class="button" href="/geodex">
 				What's a Geocat?
 			</a>

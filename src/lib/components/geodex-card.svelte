@@ -27,6 +27,7 @@
         flex-wrap: wrap;
         width: 100%;
         margin: auto; 
+        padding-top: 1rem;
 	}
 
 	.row div {
