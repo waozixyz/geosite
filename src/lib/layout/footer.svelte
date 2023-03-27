@@ -3,7 +3,7 @@
 <footer>
 	<div>
 		Made with lots of <b>catnip</b><br/>
-		<b>Nonaco</b> © 2022 - <a href="/license">BY-NC-SA 4.0</a>
+		<b><a href="https://waotzi.org">Waotzi</a></b> © 2023 - <a href="/license">BY-NC-SA 4.0</a>
 	</div>
 </footer>
 

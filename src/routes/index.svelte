@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Geocats - Home</title>
-	<meta name="description" content="The Geodex is a compendium of all known Geocats NFTs. This page is a work in progress, and functionality will be improved as time goes on. Geocats can be found in game, won during contests, or bought in the Vulcan Forged Marketplace. Geocats-V3 will make all cats unique and playable characters in game." />
+	<meta name="description" content="his game centres around the Geocats, a talented group of cats from a place called Geoterra. They rove their world in search of small treasure chests called geocaches." />
 </svelte:head>
 
 <section>
@@ -19,7 +19,7 @@
 	</div>
 	<div>
 		<div>
-			<p>Geocats is a 2D action-platformer created by Nonaco</p>
+			<p>Geocats is a 2D action-platformer.</p>
 			<p>This game centres around the Geocats, a talented group of cats from a place called Geoterra. They rove their world in search of small treasure chests called geocaches.</p>
 			<p>But, not everything in Geoterra is as idyllic as it sounds. There have been weird reports of creepy monster-cats attacking the peaceful denizens. Do you have what it takes to join the Geocats and return peace to the lands?</p>
 
