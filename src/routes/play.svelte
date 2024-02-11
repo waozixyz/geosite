@@ -19,12 +19,6 @@
 	<meta name="description" content="A Retro-style 2D Action Platformer - Our adventure story takes the player through the world of GeoTerra, a place of both breathtaking beauty and chilling dystopian environments." />
 </svelte:head>
 
-<div id="game" class="black">
-	<div class="content">
-	<iframe frameborder="0" src="https://itch.io/embed-upload/1981046?color=000000" allowfullscreen="" width="640" height="480"><a href="https://waozi.itch.io/geocats">Play Geocats on itch.io</a></iframe>
-	</div>
-
-</div>
 <section>
 	<center>
 	<iframe frameborder="0" src="https://itch.io/embed/1981046?bg_color=0d0f15&amp;fg_color=d9d737&amp;link_color=b933a2&amp;border_color=333333" width="552" height="167"><a href="https://waozi.itch.io/geocats">Geocats by Nonaco</a></iframe>
