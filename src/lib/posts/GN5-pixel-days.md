@@ -70,12 +70,6 @@ Check out [qix-mono.info](https://qix-mono.info/) to learn more about this aweso
 
 ## **Editorials & Opinions**
 
-### Advertising Opportunities!
-
-Are you interested in hundreds of really cool people seeing your product in a video game?
-Here's a unique marketing opportunity - a billboard in GeoCity with YOUR companies name and logo on it! 
-Let's get in touch -> advertising@geocats.net
-
 ### NONACO "Delicious Bites" recall!
 
 For those that haven't heard, NONACO "Delicious Bites" are full of plastic chunks of varying size. Still, they're pretty tasty, and I'd totally recommend them to anyone who likes crunchy snacks.
@@ -89,7 +83,6 @@ Thanks in advance!
 
 — *Charles Meoward Hinton*
 
-Have something to say? *Opinions, comments, questions, and concerns can always be sent to wassup@geocats.net*
 
 ---
 
@@ -112,15 +105,6 @@ Let us know, and we'll happily send you a Geocat for being such a cool person! S
 ---
 
 ## **NONACO "Fun-Zone"**
-
-### Geoquarium Ice Theme Gift for Readers.
-
-Last chance at the Geoquarium NFT. It's free, just send us an email and we'll hook you up. Thanks for reading this issue of GeoNews.
-prizes@geocats.net
-
----
-
-[Join us on Discord, for more Geocracy! ](https://discord.gg/JW6mgyN3rk) 
 
 <center>
 

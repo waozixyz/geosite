@@ -138,8 +138,6 @@ Is anyone else outraged by the dangerous excursions that the NONACO education sy
 
 — *Concerned Citizen*
 
-Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
-
 ---
 
 ## **Communty Events**

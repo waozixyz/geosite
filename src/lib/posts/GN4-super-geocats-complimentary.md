@@ -75,7 +75,6 @@ Hey, does anyone want to swing by my place this weekend and play the new Catsylv
 
 — *Chillmeow McClawsome*
 
-Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
 
 ---
 
@@ -103,9 +102,6 @@ Let us know, and we'll happily send you a Geocat for being such a cool person! S
 ### Geoquarium Ice Theme Gift for Readers.
 
 The team behind Geocats is notoriously late. (*Blame it on the catnip.*) 
-
-However, we feel bad about not getting the Geocats Winter Theme out in time. Our solution is to send our Community members the Gift of the very first Geoquarium. Please Email us your VET NFT address if you would like us to send you the long awaited Geoquarium (Ice Theme).
-prizes@geocats.net
 
 ![Ancient Solar System](/geonews/ancient_solarsystem.png)
 

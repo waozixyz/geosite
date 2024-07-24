@@ -27,22 +27,6 @@ We’re chilled to announce a spooky new cat in celebration of our October relea
 
 We will be minting a bunch of Broccoli Cats… **and anyone that has one of these creepy cruciferous creatures will be invited join us for Geocats V.2!**
 
----
-
-## Introducing SPOOKY PIXEL-ART FEST
-
-It’s terrifyingly simple!
-Create a creepy piece of pixel art for Geocats (Maximum 250×250 pixels in size)
-
-**All entries must be posted in the Geocats Competition telegram chat:** 
-
-[@Geocatscompetitions](https://t.me/Geocatscompetitions)
-
- Five runner-up entries will also receive Broccoli Cats as a consolation!
-We also reserve the right to award an honourable mention (…*Looking at you poop-cat*)
-
-**DEADLINE FOR ENTRIES IS OCTOBER 21 2021!** 
-
 ------
 
 Finally, for the less artistic among us,

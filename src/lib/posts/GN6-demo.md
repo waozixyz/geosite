@@ -14,7 +14,7 @@ tags: [News]
 Enormous gratitude to our fans, friends, and families for all the support and love while creating this showcase of our work.
 We're ready to share with you...
 
-### [GEOCATS: Super Complimentary Edition](https://geocats.net/play#game)
+### [GEOCATS: Super Complimentary Edition](https://geocats.waozi.xyz/play#game)
 
 - You're invited to drop into our [**Discord**](https://discord.gg/JW6mgyN3rk) if you get stuck, or have something to share... or if you simply want to hang. The more feedback we get, the better the game will be! Plus, if you find a bug, we might even hook you up with a rare prize!
 - Our next step, now that this demo is out, is integrating **[Elysium](https://egamers.io/list-of-all-the-elysium-blockchain-games-and-dapps/)** into our game. We're creating a lot of fun ways to interact with these amazing Geocats on an incredible *carbon neutral* blockchain! 
@@ -54,8 +54,6 @@ Corespondents from GeoNews have reached out to the R&D department at NONACO, but
 Sorry, no time to play the new demo version of Geocats. Maybe I'll take a look at it after I finish playing Catsylvania 7. I really gotta say, the guys behind the Catsylvania series have OUTDONE themselves this time. Its got a huge open world map with hundreds of hours worth of content. Game of the decade.
 
 — *Simon Belmeow*
-
-Have something to say? *Opinions, comments, questions, and concerns can always be sent to wassup@geocats.net*
 
 ---
 

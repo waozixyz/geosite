@@ -1,5 +1,3 @@
-
-
 <footer>
 	<div>
 		Made with lots of <b>catnip</b><br/>

@@ -80,8 +80,6 @@ Available Soon*
 (Thanks to our awesome community for waiting patiently while we work.
 We are glad you’re all here, sharing the fun.)
 
-**Join our Telegram to stay up to date on all our developments!**
-[@GeocatsOfficial](https://t.me/GeocatsOfficial)
 
 <center>
 

@@ -95,8 +95,6 @@ You dropped a bag of catnip on your way out. Hit me up if you want it back. You 
 This project really grows in new ways, and it's entirely due to the talented community and team. Thanks to everyone here!
 — *Kurt*
 
-Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
-
 ---
 
 ## **Communty Events**

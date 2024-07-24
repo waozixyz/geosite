@@ -120,8 +120,6 @@ These creeps from Nonaco expect us to believe that we live on a giant artificial
 See you all in 2022.
 — *Kurt*
 
-Have something to say? *Opinions, comments, questions, and concerns can be sent to wassup@geocats.net*
-
 ---
 
 ## **Communty Events**
